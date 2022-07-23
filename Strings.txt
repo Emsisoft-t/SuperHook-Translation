@@ -1,0 +1,18 @@
+Super Hook Translation Strings
+
+"Press Start" = "Your Translation Here"
+"Select Level" = "Your Translation Here"
+"Change Skin" = "Your Translation Here"
+"Red" = "Your Translation Here"
+"Sky Blue" = "Your Translation Here"
+"Lime Green" = "Your Translation Here"
+"Purple" = "Your Translation Here"
+"Navy Blue" = "Your Translation Here"
+"Orange" = "Your Translation Here"
+"Level" = "Your Translation Here"
+"Score" = "Your Translation Here"
+"Level Cleared! Next level >>>" = "Your Translation Here"
+"Press to continue..." = "Your Translation Here"
+"Congratulations" = "Your Translation Here"
+
+Credit Name Here = "Here"
